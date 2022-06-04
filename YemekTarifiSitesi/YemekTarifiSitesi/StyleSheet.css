@@ -1,0 +1,10 @@
+﻿a:link{
+    text-decoration:none;
+    font-size:12px;
+    font-family:'Segoe UI';
+    font-style:normal;
+}
+a:hover{
+    font-size:13px;
+    color:navy;
+}
